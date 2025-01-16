@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BfF_gy7R4zZh9mfc9pzg-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfF_gy7R4zZh9mfc9pzg-1" target="BfF_gy7R4zZh9mfc9pzg-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BfF_gy7R4zZh9mfc9pzg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="50" width="310" height="110" as="geometry" />
         </mxCell>
@@ -330,6 +333,15 @@
         </mxCell>
         <mxCell id="BfF_gy7R4zZh9mfc9pzg-146" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1679.5" y="775" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfF_gy7R4zZh9mfc9pzg-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfF_gy7R4zZh9mfc9pzg-149" target="BfF_gy7R4zZh9mfc9pzg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfF_gy7R4zZh9mfc9pzg-149" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="73" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="BfF_gy7R4zZh9mfc9pzg-151" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cdn_content_distribution_network;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="84.35" width="51" height="42.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
